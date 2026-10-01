@@ -1,0 +1,889 @@
+2026-10-01 17:40:17,146 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 17:40:18,011 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:40:48,572 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:41:19,209 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:41:50,281 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:42:20,851 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:42:51,395 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:43:22,171 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:43:52,759 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:43:57,258 INFO twitch-tg: Остановлено
+2026-10-01 17:44:01,116 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 17:44:01,612 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:44:32,126 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:45:02,726 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    r.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:45:33,205 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    log.exception("Ошибка в цикле, повтор через %s c", POLL_SEC)
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    now = time.time()
+             ~~~~~~^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    "https://api.twitch.tv/helix/streams",
+    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:46:04,279 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    while True:
+            ^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    # ---------- основной цикл ----------
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    for attempt in (1, 2):
+            ^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    body = await r.text()
+    ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:46:34,951 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    while True:
+            ^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    # ---------- основной цикл ----------
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    for attempt in (1, 2):
+            ^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    body = await r.text()
+    ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:47:05,503 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    while True:
+            ^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    # ---------- основной цикл ----------
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    for attempt in (1, 2):
+            ^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    body = await r.text()
+    ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:47:36,237 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 357, in main
+    while True:
+            ^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 296, in tick
+    # ---------- основной цикл ----------
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 113, in get_stream
+    for attempt in (1, 2):
+            ^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 105, in _auth
+    body = await r.text()
+    ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 655, in raise_for_status
+    raise ClientResponseError(
+    ...<5 lines>...
+    )
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='https://id.twitch.tv/oauth2/token'
+2026-10-01 17:47:39,827 INFO twitch-tg: Остановлено
+2026-10-01 17:47:43,782 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 17:47:44,322 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 298, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 115, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 107, in _auth
+    raise RuntimeError(f"Twitch auth {r.status}: {body}")
+RuntimeError: Twitch auth 400: {"status":400,"message":"invalid client"}
+
+2026-10-01 17:48:14,917 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 298, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 115, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 107, in _auth
+    raise RuntimeError(f"Twitch auth {r.status}: {body}")
+RuntimeError: Twitch auth 400: {"status":400,"message":"invalid client"}
+
+2026-10-01 17:48:45,432 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 298, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 115, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 107, in _auth
+    raise RuntimeError(f"Twitch auth {r.status}: {body}")
+RuntimeError: Twitch auth 400: {"status":400,"message":"invalid client"}
+
+2026-10-01 17:49:15,953 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 298, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 115, in get_stream
+    await self._auth()
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 107, in _auth
+    raise RuntimeError(f"Twitch auth {r.status}: {body}")
+RuntimeError: Twitch auth 400: {"status":400,"message":"invalid client"}
+
+2026-10-01 17:49:45,406 INFO twitch-tg: Остановлено
+2026-10-01 17:50:23,804 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 17:50:24,887 INFO twitch-tg: Получен Twitch app-токен
+2026-10-01 17:52:35,596 WARNING twitch-tg: Не удалось отправить превью (Telegram server says - Forbidden: bot is not a member of the channel chat), шлю текстом
+2026-10-01 17:52:36,080 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 211, in start_stream
+    msg = await tg(bot.send_photo, CHANNEL_ID, URLInputFile(thumb_url(stream)), caption=text)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3096, in send_photo
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 319, in tick
+    await start_stream(stream)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 215, in start_stream
+    msg = await tg(bot.send_message, CHANNEL_ID, text, link_preview_options=NO_PREVIEW)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3013, in send_message
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-10-01 17:53:09,402 WARNING twitch-tg: Не удалось отправить превью (Telegram server says - Forbidden: bot is not a member of the channel chat), шлю текстом
+2026-10-01 17:53:09,724 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 211, in start_stream
+    msg = await tg(bot.send_photo, CHANNEL_ID, URLInputFile(thumb_url(stream)), caption=text)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3096, in send_photo
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 319, in tick
+    await start_stream(stream)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 215, in start_stream
+    msg = await tg(bot.send_message, CHANNEL_ID, text, link_preview_options=NO_PREVIEW)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3013, in send_message
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-10-01 17:53:42,719 WARNING twitch-tg: Не удалось отправить превью (Telegram server says - Forbidden: bot is not a member of the channel chat), шлю текстом
+2026-10-01 17:53:43,118 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 211, in start_stream
+    msg = await tg(bot.send_photo, CHANNEL_ID, URLInputFile(thumb_url(stream)), caption=text)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3096, in send_photo
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 319, in tick
+    await start_stream(stream)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 215, in start_stream
+    msg = await tg(bot.send_message, CHANNEL_ID, text, link_preview_options=NO_PREVIEW)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3013, in send_message
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-10-01 17:54:16,204 WARNING twitch-tg: Не удалось отправить превью (Telegram server says - Forbidden: bot is not a member of the channel chat), шлю текстом
+2026-10-01 17:54:16,510 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 211, in start_stream
+    msg = await tg(bot.send_photo, CHANNEL_ID, URLInputFile(thumb_url(stream)), caption=text)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3096, in send_photo
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 319, in tick
+    await start_stream(stream)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 215, in start_stream
+    msg = await tg(bot.send_message, CHANNEL_ID, text, link_preview_options=NO_PREVIEW)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3013, in send_message
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-10-01 17:54:49,995 WARNING twitch-tg: Не удалось отправить превью (Telegram server says - Forbidden: bot is not a member of the channel chat), шлю текстом
+2026-10-01 17:54:50,204 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 211, in start_stream
+    msg = await tg(bot.send_photo, CHANNEL_ID, URLInputFile(thumb_url(stream)), caption=text)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3096, in send_photo
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 319, in tick
+    await start_stream(stream)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 215, in start_stream
+    msg = await tg(bot.send_message, CHANNEL_ID, text, link_preview_options=NO_PREVIEW)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3013, in send_message
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-10-01 17:55:23,686 WARNING twitch-tg: Не удалось отправить превью (Telegram server says - Forbidden: bot is not a member of the channel chat), шлю текстом
+2026-10-01 17:55:23,893 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 211, in start_stream
+    msg = await tg(bot.send_photo, CHANNEL_ID, URLInputFile(thumb_url(stream)), caption=text)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3096, in send_photo
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 319, in tick
+    await start_stream(stream)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 215, in start_stream
+    msg = await tg(bot.send_message, CHANNEL_ID, text, link_preview_options=NO_PREVIEW)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 3013, in send_message
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 129, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot is not a member of the channel chat
+2026-10-01 17:55:36,324 INFO twitch-tg: Остановлено
+2026-10-01 17:55:39,996 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 17:55:41,095 INFO twitch-tg: Получен Twitch app-токен
+2026-10-01 17:55:44,245 INFO twitch-tg: Стрим 317020751572 начался, пост 3 создан
+2026-10-01 17:58:48,908 INFO twitch-tg: Зрителей: 1
+2026-10-01 17:59:19,667 INFO twitch-tg: Канал ушёл в оффлайн, жду 300 c (возможен рестарт)
+2026-10-01 18:03:49,865 INFO twitch-tg: Остановлено
+2026-10-01 18:03:55,762 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 18:03:57,117 INFO twitch-tg: Получен Twitch app-токен
+2026-10-01 18:04:28,857 INFO twitch-tg: Стрим 317020751572 завершён
+2026-10-01 18:05:34,184 INFO twitch-tg: Стрим 317020838356 начался, пост 4 создан
+2026-10-01 18:08:39,042 INFO twitch-tg: Зрителей: 1
+2026-10-01 18:10:41,850 INFO twitch-tg: Стрим 317020838356 завершён
+2026-10-01 18:10:42,305 ERROR twitch-tg: Не удалось обновить пост после окончания стрима
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 240, in finish_stream
+    await edit_text(st, ended_text(st["title"], st["game"]))
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 189, in edit_text
+    await tg(bot.edit_message_caption, chat_id=CHANNEL_ID,
+             message_id=st["message_id"], caption=text)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 174, in tg
+    return await fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 1385, in edit_message_caption
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message to edit not found
+2026-10-01 18:10:43,643 INFO twitch-tg: Стрим 317020874452 начался, пост 5 создан
+2026-10-01 18:10:44,269 INFO twitch-tg: Остановлено
+2026-10-01 18:10:47,996 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 18:10:48,921 INFO twitch-tg: Получен Twitch app-токен
+2026-10-01 18:12:14,195 INFO twitch-tg: Остановлено
+2026-10-01 18:12:19,090 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 18:12:19,918 INFO twitch-tg: Получен Twitch app-токен
+2026-10-01 18:13:54,591 INFO twitch-tg: Зрителей: 0
+2026-10-01 18:16:36,902 INFO twitch-tg: Остановлено
+2026-10-01 18:16:43,858 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 18:16:45,026 INFO twitch-tg: Получен Twitch app-токен
+2026-10-01 18:17:16,920 INFO twitch-tg: Канал ушёл в оффлайн, жду 300 c (возможен рестарт)
+2026-10-01 18:18:02,876 INFO twitch-tg: Остановлено
+2026-10-01 18:18:08,540 INFO twitch-tg: Бот запущен, канал: convuzxc
+2026-10-01 18:18:09,688 INFO twitch-tg: Получен Twitch app-токен
+2026-10-01 18:22:17,148 INFO twitch-tg: Стрим 317020874452 завершён
+2026-10-01 18:29:06,687 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1571, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1181, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1212, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\resolver.py", line 47, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\asyncio\base_events.py", line 936, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\socket.py", line 987, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 298, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 116, in get_stream
+    async with self.s.get(
+               ~~~~~~~~~~^
+        "https://api.twitch.tv/helix/streams",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        },
+        ^^
+    ) as r:
+    ^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client.py", line 1693, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client.py", line 858, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client.py", line 812, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 657, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1242, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1577, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host api.twitch.tv:443 ssl:default [getaddrinfo failed]
+2026-10-01 19:52:27,785 ERROR twitch-tg: Ошибка в цикле, повтор через 30 c
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1571, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1181, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1212, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\resolver.py", line 47, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\asyncio\base_events.py", line 936, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python314\Lib\socket.py", line 987, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 359, in main
+    await tick(twitch)
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 298, in tick
+    stream = await twitch.get_stream()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\bot.py", line 116, in get_stream
+    async with self.s.get(
+               ~~~~~~~~~~^
+        "https://api.twitch.tv/helix/streams",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        },
+        ^^
+    ) as r:
+    ^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client.py", line 1693, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client.py", line 858, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\client.py", line 812, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 657, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1242, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hp\Desktop\konvuz\.venv\Lib\site-packages\aiohttp\connector.py", line 1577, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host api.twitch.tv:443 ssl:default [getaddrinfo failed]
